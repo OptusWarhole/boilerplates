@@ -1,2 +1,2 @@
 Ces fichiers sont a mettre a la racine du DRUPAL
-Il suffit de changer le chemin du theme dans le GULPFILE
+Il suffit de changer le chemin du theme dans le GULPFILE ainsi que le dossier de theme
